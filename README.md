@@ -14,6 +14,7 @@
     <a href="https://uz.wikipedia.org/wiki/Dinozavrlar"> DINAZAVRLAR DUNYOSI
     <a href="https://uz.wikipedia.org/wiki/Kosmik_turizm"> KOSNOSGA SAYOHAT
 <a href="https://uz.wikipedia.org/wiki/Dengiz"> DENGIZ SIRLARI
+
 <H2>Oyinlar</H2>
 <p>1.Puzzle Oyinlar</p>
 <p>2.Ranglar blan Oynash </p>
